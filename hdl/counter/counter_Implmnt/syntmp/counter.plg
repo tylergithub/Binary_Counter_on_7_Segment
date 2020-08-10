@@ -1,0 +1,12 @@
+@P:  Worst Slack : 32.160
+@P:  i_Clk - Estimated Frequency : 127.6 MHz
+@P:  i_Clk - Requested Frequency : 25.0 MHz
+@P:  i_Clk - Estimated Period : 7.840
+@P:  i_Clk - Requested Period : 40.000
+@P:  i_Clk - Slack : 32.160
+@P: Binary_Counter_Top Part : ice40hx1kvq100
+@P: Binary_Counter_Top I/O primitives : 9
+@P: Binary_Counter_Top I/O Register bits : 0
+@P: Binary_Counter_Top Register bits (Non I/O) : 24 (1%)
+@P: Binary_Counter_Top Total Luts : 44 (3%)
+@P:  CPU Time : 0h:00m:00s

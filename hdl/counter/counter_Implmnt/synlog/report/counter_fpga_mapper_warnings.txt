@@ -1,0 +1,6 @@
+@W: FA239 :"f:\go_board\projects\binary_counter_on_7_segment\hdl\display_7_seg.v":16:2:16:5|ROM disp_seg_Inst.r_Hex_Encoding[6:0] (in view: work.Binary_Counter_Top(verilog)) mapped in logic. To map to a technology ROM, apply attribute syn_romstyle on this instance.
+@W: FA239 :"f:\go_board\projects\binary_counter_on_7_segment\hdl\display_7_seg.v":16:2:16:5|ROM disp_seg_Inst.r_Hex_Encoding[6:0] (in view: work.Binary_Counter_Top(verilog)) mapped in logic. To map to a technology ROM, apply attribute syn_romstyle on this instance.
+@W: FX1039 :"f:\go_board\projects\binary_counter_on_7_segment\hdl\debounce.v":12:0:12:5|User-specified initial value defined for instance debounce_Inst.r_counter[17:0] is being ignored. 
+@W: FX1039 :"f:\go_board\projects\binary_counter_on_7_segment\hdl\debounce.v":12:0:12:5|User-specified initial value defined for instance debounce_Inst.r_filtered_data is being ignored. 
+@W: FX1039 :"f:\go_board\projects\binary_counter_on_7_segment\hdl\binary_counter_top.v":29:1:29:6|User-specified initial value defined for instance r_counter[3:0] is being ignored. 
+@W: FX1039 :"f:\go_board\projects\binary_counter_on_7_segment\hdl\binary_counter_top.v":29:1:29:6|User-specified initial value defined for instance r_Switch_1 is being ignored. 

@@ -1,5 +1,5 @@
 // This module can be clocked or non-clocked, I'm doing it without clock:
-module display_7_seg (
+module Display_7_Seg (
 	input [3:0] i_binary,
 	output o_Seg_a,
 	output o_Seg_b,

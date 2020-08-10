@@ -1,0 +1,8 @@
+Selecting top level module Binary_Counter_Top
+@N: CG364 :"F:\go_board\projects\Binary_Counter_on_7_Segment\hdl\Debounce.v":1:7:1:14|Synthesizing module Debounce in library work.
+
+@A: CG412 :"F:\go_board\projects\Binary_Counter_on_7_Segment\hdl\Debounce.v":14:5:14:32|Treating === and !== as == and != -- possible simulation mismatch
+@N: CG364 :"F:\go_board\projects\Binary_Counter_on_7_Segment\hdl\Display_7_Seg.v":2:7:2:19|Synthesizing module Display_7_Seg in library work.
+
+@N: CG364 :"F:\go_board\projects\Binary_Counter_on_7_Segment\hdl\Binary_Counter_Top.v":1:7:1:24|Synthesizing module Binary_Counter_Top in library work.
+

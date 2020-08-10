@@ -1,0 +1,12 @@
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
+@N: MT204 |Auto Constrain mode is disabled because clocks are defined in the SDC file
+@N: MO106 :"f:\go_board\projects\binary_counter_on_7_segment\hdl\display_7_seg.v":16:2:16:5|Found ROM .delname. (in view: work.Binary_Counter_Top(verilog)) with 10 words by 7 bits.
+@N: FX1016 :"f:\go_board\projects\binary_counter_on_7_segment\hdl\binary_counter_top.v":2:7:2:11|SB_GB_IO inserted on the port i_Clk.
+@N: FX1017 :|SB_GB inserted on the net debounce_Inst.r_counter12_i.
+@N: BW103 |The default time unit for the Synopsys Constraint File (SDC or FDC) is 1ns.
+@N: BW107 |Synopsys Constraint File capacitance units using default value of 1pF 
+@N: FX1056 |Writing EDF file: F:\go_board\projects\Binary_Counter_on_7_Segment\hdl\counter\counter_Implmnt\counter.edf
+@N: MT615 |Found clock i_Clk with period 40.00ns 
+@N: MT320 |This timing report is an estimate of place and route data. For final timing results, use the FPGA vendor place and route report.
+@N: MT322 |Clock constraints include only register-to-register paths associated with each individual clock.

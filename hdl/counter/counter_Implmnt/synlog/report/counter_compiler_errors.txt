@@ -1,0 +1,2 @@
+@E: CS165 :"F:\go_board\projects\Binary_Counter_on_7_Segment\hdl\Binary_Counter_Top.v":35:13:35:25|Expecting wire for output connection
+

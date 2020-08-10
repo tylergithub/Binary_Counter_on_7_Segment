@@ -1,0 +1,9 @@
+OUTPUT o_Segment1_G 	 location (0, 14, 0) 	 2 	 
+OUTPUT o_Segment1_C 	 location (5, 17, 1) 	 93 	 
+INPUT  i_Switch_1 	 location (13, 4, 1) 	 53 	 
+OUTPUT o_Segment1_F 	 location (0, 14, 1) 	 1 	 
+OUTPUT o_Segment1_D 	 location (6, 17, 0) 	 91 	 
+OUTPUT o_Segment1_B 	 location (0, 13, 0) 	 4 	 
+INPUT  i_Clk 	 location (0, 8, 1) 	 15 	 
+OUTPUT o_Segment1_E 	 location (6, 17, 1) 	 90 	 
+OUTPUT o_Segment1_A 	 location (0, 13, 1) 	 3 	 

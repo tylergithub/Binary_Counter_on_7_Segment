@@ -1,7 +1,7 @@
-`include "display_7_seg.v"
+`include "Display_7_Seg.v"
 `timescale 1us/1ns
 
-module display_7_seg_tb ();
+module Display_7_Seg_TB ();
 
 reg [3:0] i_binary = 4'b0000;
 wire o_Seg_a;
@@ -13,7 +13,7 @@ wire o_Seg_f;
 wire o_Seg_g;
 
 
-	display_7_seg UUT (
+	Display_7_Seg UUT (
 		.i_binary(i_binary),
 		.o_Seg_a (o_Seg_a),
 		.o_Seg_b (o_Seg_b),
