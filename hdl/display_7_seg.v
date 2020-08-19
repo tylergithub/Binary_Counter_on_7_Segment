@@ -34,6 +34,18 @@ module Display_7_Seg (
 		r_Hex_Encoding = 7'h7F;
 		4'b1001:// 9
 		r_Hex_Encoding = 7'h7B;
+		4'b1010:// a
+		r_Hex_Encoding = 7'h77;
+		4'b1011:// b
+		r_Hex_Encoding = 7'h1F;
+		4'b1100:// c
+		r_Hex_Encoding = 7'h4E;
+		4'b1101:// d
+		r_Hex_Encoding = 7'h3D;
+		4'b1110:// e
+		r_Hex_Encoding = 7'h4F;
+		4'b1111:// f
+		r_Hex_Encoding = 7'h47;
 		default:
 		r_Hex_Encoding = 7'h7E;
 		endcase
